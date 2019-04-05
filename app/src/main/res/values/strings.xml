@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Project</string>
+    <string name="title">Simpsons Firebase</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="log_out">Log Out</string>
+    <string name="push">Push</string>
+    <string name="query1">Query 1</string>
+    <string name="stuid">Student ID</string>
+    <string name="query2">Query 2</string>
+    <string name="password">Password (at least 6 characters)</string>
+    <string name="email">Email</string>
+</resources>
